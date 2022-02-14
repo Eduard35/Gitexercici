@@ -17,6 +17,7 @@ public class arrays {
         // numeros = [1, 2, 3, 4, 5, 6]
 
         int numerosel = sc.nextInt();
+	int numerosall = sc.nextInt();
         // numerosel = 4
 
         int j = 0;
